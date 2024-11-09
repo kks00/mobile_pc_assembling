@@ -1,6 +1,7 @@
 package com.example.pcassembling;
 
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.view.LayoutInflater;
@@ -18,6 +19,14 @@ import java.util.ArrayList;
 public class ItemRecyclerViewAdapter extends RecyclerView.Adapter<ItemRecyclerViewAdapter.ViewHolder> {
     Context context;
     ArrayList<Item> items_list;
+
+    interface OnItemClicked {
+        public void onItemClick(View v, int i);
+    }
+    OnItemClicked onItemClicked;
+    public void setItemClicked(OnItemClicked onItemClicked) {
+        this.onItemClicked = onItemClicked;
+    }
 
     public ItemRecyclerViewAdapter(Context context, Items items, String category_name) {
         this.context = context;
@@ -59,23 +68,25 @@ public class ItemRecyclerViewAdapter extends RecyclerView.Adapter<ItemRecyclerVi
         return items_list.size();
     }
 
-    public class ViewHolder extends RecyclerView.ViewHolder {
+    public class ViewHolder extends RecyclerView.ViewHolder implements  View.OnClickListener {
         ImageView imgItemImage;
         TextView tvItemName, tvItemCategory, tvItemPrice;
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
 
-            // 아이템 클릭 시 상세정보 액티비티로 이동
-            itemView.setOnClickListener((view) -> {
-                int item_index = getAdapterPosition();
-                Toast.makeText(context.getApplicationContext(), items_list.get(item_index).name, Toast.LENGTH_SHORT).show();
-            });
-
             imgItemImage = itemView.findViewById(R.id.imgItemImage);
             tvItemName = itemView.findViewById(R.id.tvItemName);
             tvItemCategory = itemView.findViewById(R.id.tvItemCategory);
             tvItemPrice = itemView.findViewById(R.id.tvItemPrice);
+
+            itemView.setOnClickListener(this);
+        }
+
+        @Override
+        public void onClick(View view) {
+            if (onItemClicked != null)
+                onItemClicked.onItemClick(view, getAdapterPosition());
         }
     }
 

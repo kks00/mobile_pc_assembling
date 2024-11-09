@@ -5,8 +5,10 @@ import android.util.Log;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.Serializable;
 
-public class Item {
+// Extra로 주고받기 위해 Serializable 인터페이스를 구현하는 형태로 작성
+public class Item implements Serializable {
     public int index;
 
     public String category;
