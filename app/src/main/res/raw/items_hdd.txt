@@ -1,0 +1,30 @@
+0|Seagate BarraCuda 7200/256M (ST2000DM008, 2TB)|90,720|HDD (PC용)/8.9cm(3.5인치)/2TB/SATA3 (6Gb/s)/7,200RPM/메모리 256MB/220MB/s/기록방식:SMR(PMR)/두께:20.2mm/A/S 정보:2년/다층캐싱(MTC) / 무게 : 최대 490g
+1|Seagate BarraCuda 5400/256M (ST4000DM004, 4TB)|134,440|HDD (PC용)/8.9cm(3.5인치)/4TB/SATA3 (6Gb/s)/5,400RPM/메모리 256MB/190MB/s/기록방식:SMR(PMR)/두께:20.2mm/소음(유휴/탐색):22/24dB/A/S 정보:2년/다층캐싱(MTC)  / 무게: 최대 490g
+2|Western Digital WD Blue 5640/256M (WD80EAAZ, 8TB)|213,840|HDD (PC용)/8.9cm(3.5인치)/8TB/SATA3(6Gb/s)/5,640RPM/메모리 256MB/215MB/s/기록방식:CMR(PMR)/두께:26.1mm/소음(유휴/탐색):25/30dB/A/S 정보:2년
+3|Western Digital WD Blue 7200/256M (WD20EZBX, 2TB)|97,200|HDD (PC용)/8.9cm(3.5인치)/2TB/SATA3(6Gb/s)/7,200RPM/메모리 256MB/215MB/s/기록방식:SMR(PMR)/두께:26.1mm/소음(유휴/탐색):25/27dB/A/S 정보:2년/NoTouch 램프로드 기술
+4|Seagate BarraCuda 5400/256M (ST8000DM004, 8TB)|194,400|HDD (PC용)/8.9cm(3.5인치)/8TB/SATA3(6Gb/s)/5,400RPM/메모리 256MB/190MB/s/기록방식:SMR(PMR)/두께:26.11mm/소음(유휴/탐색):23/25dB/A/S 정보:2년/다층캐싱(MTC) / 무게: 630g
+5|Western Digital WD RED Plus 5400/256M (WD40EFPX, 4TB)|166,390|HDD (NAS용)/8.9cm(3.5인치)/4TB/SATA3 (6Gb/s)/5,400RPM/메모리 256MB/180MB/s/기록방식:CMR(PMR)/두께:26.1mm/S.M.A.R.T 지원/사용보증:100만시간/A/S 정보:3년/NASware3.0
+6|Western Digital Ultrastar DC HC580 7200/512M (WUH722424ALE6L4, 24TB)|918,000|HDD (기업용)/8.9cm(3.5인치)/24TB/SATA3 (6Gb/s)/7,200RPM/메모리 512MB/기록방식:CMR(PMR)/두께:26.1mm/헬륨충전/RV센서/SED/사용보증:250만시간/A/S 정보:5년
+7|Seagate BarraCuda 7200/256M (ST1000DM014, 1TB)|74,330|HDD (PC용)/8.9cm(3.5인치)/1TB/SATA3 (6Gb/s)/7,200RPM/메모리 256MB/220MB/s/기록방식:SMR(PMR)/두께:20.2mm/A/S 정보:2년/다층캐싱(MTC) / 무게 : 최대 490g
+8|Western Digital Ultrastar DC HC320 박스 패키지 7200/256M HUS728T8TALE6L4 (8TB)|314,200|HDD (NAS용)/8.9cm(3.5인치)/8TB/SATA3 (6Gb/s)/7,200RPM/메모리 256MB/255MB/s/기록방식:CMR(PMR)/두께:26.1mm/RV센서/DSA/사용보증:200만시간/소음(유휴/탐색):29/36dB/A/S 정보:3년/24시간 연중무휴 작동설계
+9|Western Digital WD Purple 5400/256M (WD43PURZ, 4TB)||HDD (CCTV용)/8.9cm(3.5인치)/4TB/SATA3(6Gb/s)/5,400RPM/메모리 256MB/180MB/s/기록방식:CMR(PMR)/두께:26.1mm/저전력/사용보증:100만시간/소음(유휴/탐색):23/27dB/A/S 정보:3년/무게: 450g
+10|Western Digital WD Blue 7200/64M (WD10EZEX, 1TB)|82,080|HDD (PC용)/8.9cm(3.5인치)/1TB/SATA3(6Gb/s)/7,200RPM/메모리 64MB/150MB/s/기록방식:CMR(PMR)/두께:25.4mm/소음(유휴/탐색):29/30dB/A/S 정보:2년
+11|Seagate IronWolf Pro 7200/512M (ST24000NT002, 24TB)|1,004,400|HDD (NAS용)/8.9cm(3.5인치)/24TB/SATA3 (6Gb/s)/7,200RPM/메모리 512MB/285MB/s/기록방식:CMR(PMR)/두께:26.11mm/헬륨충전/RV센서/사용보증:250만시간/A/S 정보:5년,데이터 복구 3년
+12|Western Digital WD Blue 5400/256M (WD40EZAX, 4TB)|142,560|HDD (PC용)/8.9cm(3.5인치)/4TB/SATA3(6Gb/s)/5,400RPM/메모리 256MB/180MB/s/기록방식:CMR(PMR)/두께:26.1mm/소음(유휴/탐색):23/25dB/A/S 정보:2년/NoTouch 램프로드 기술
+13|Seagate IronWolf 7200/256M/해외구매 (ST16000VN001, 16TB)||HDD (NAS용)/8.9cm(3.5인치)/16TB/SATA3 (6Gb/s)/7,200RPM/메모리 256MB/220MB/s/기록방식:CMR(PMR)/두께:26.11mm/헬륨충전/RV센서/S.M.A.R.T 지원/사용보증:100만시간/소음(유휴/탐색):20/28dB/A/S 정보:데이터 복구 2년/무게: 최대 690g
+14|도시바 P300 7200/256M (HDWD320, 2TB)|80,230|HDD (PC용)/8.9cm(3.5인치)/2TB/SATA3 (6Gb/s)/7,200RPM/메모리 256MB/210MB/s/기록방식:SMR(PMR)/두께:26.1mm/DSA/저전력/소음(유휴/탐색):25dB/A/S 정보:2년
+15|Western Digital WD Ultrastar DC HC550 7200/512M (WUH721816ALE6L4, 16TB)|628,770|HDD (기업용)/8.9cm(3.5인치)/16TB/SATA3 (6Gb/s)/7,200RPM/메모리 512MB/262MB/s/기록방식:CMR(PMR)/두께:26.1mm/헬륨충전/RV센서/DSA/S.M.A.R.T 지원/사용보증:250만시간/A/S 정보:5년
+16|Western Digital WD Blue 5640/128M (WD80EAZZ, 8TB)|213,840|HDD (PC용)/8.9cm(3.5인치)/8TB/SATA3(6Gb/s)/5,640RPM/메모리 128MB/185MB/s/기록방식:CMR(PMR)/두께:26.1mm/소음(유휴/탐색):25/30dB/A/S 정보:2년
+17|Seagate IronWolf 7200/256M (ST8000VN004, 8TB)|322,440|HDD (NAS용)/8.9cm(3.5인치)/8TB/SATA3 (6Gb/s)/7,200RPM/메모리 256MB/210MB/s/기록방식:CMR(PMR)/두께:26.1mm/RV센서/S.M.A.R.T 지원/사용보증:100만시간/소음(유휴/탐색):30/34dB/A/S 정보:3년,데이터 복구 3년/무게: 716g
+18|Western Digital Ultrastar DC HC310 박스 패키지 7200/256M HUS726T4TALA6L4 (4TB)|191,080|HDD (NAS용)/8.9cm(3.5인치)/4TB/SATA3 (6Gb/s)/7,200RPM/메모리 256MB/243MB/s/기록방식:CMR(PMR)/두께:26.1mm/RV센서/DSA/S.M.A.R.T 지원/사용보증:200만시간/소음(유휴/탐색):29/36dB/A/S 정보:3년/24시간 연중무휴 작동설계
+19|Seagate BarraCuda 5400/256M/해외구매 (ST8000DM004, 8TB)||HDD (PC용)/8.9cm(3.5인치)/8TB/SATA3(6Gb/s)/5,400RPM/메모리 256MB/190MB/s/기록방식:SMR(PMR)/두께:26.11mm/소음(유휴/탐색):23/25dB/무게: 630g
+20|Seagate Exos X16 7200/256M/해외구매 (ST16000NM001G, 16TB)||HDD (기업용)/8.9cm(3.5인치)/16TB/SATA3 (6Gb/s)/7,200RPM/메모리 256MB/261MB/s/기록방식:CMR(PMR)/두께:26.1mm/헬륨충전/사용보증:250만시간
+21|Seagate IronWolf 5900/64M (ST4000VN008, 4TB)||HDD (NAS용)/8.9cm(3.5인치)/4TB/SATA3 (6Gb/s)/5,900RPM/메모리 64MB/180MB/s/기록방식:CMR(PMR)/두께:26.1mm/RV센서/사용보증:100만시간/소음(유휴/탐색):23/25dB/A/S 정보:3년,데이터 복구 3년/무게: 610g
+22|Seagate BarraCuda Pro 7200/256M/해외구매 (ST14000DM001, 14TB)||HDD (PC용)/8.9cm(3.5인치)/14TB/SATA3 (6Gb/s)/7,200RPM/메모리 256MB/250MB/s/기록방식:CMR(PMR)/두께:26.11mm/헬륨충전/저전력/다층캐싱기술 / 무게: 최대 705g
+23|Seagate IronWolf Pro 7200/256M/해외구매 (ST12000NE0008, 12TB)||HDD (NAS용)/8.9cm(3.5인치)/12TB/SATA3 (6Gb/s)/7,200RPM/메모리 256MB/240MB/s/기록방식:CMR(PMR)/두께:26.11mm/헬륨충전/RV센서/사용보증:120만시간/소음(유휴/탐색):28/32dB
+24|도시바 DT01 7200/64M (DT01ACA300, 3TB)|132,980|HDD (PC용)/8.9cm(3.5인치)/3TB/SATA3(6Gb/s)/7,200RPM/메모리 64MB/기록방식:CMR(PMR)/두께:26.1mm/소음(유휴/탐색):27/28dB/A/S 정보:2년/680g
+25|도시바 P300 7200/64M (HDWD120, 2TB)|98,100|HDD (PC용)/8.9cm(3.5인치)/2TB/SATA3 (6Gb/s)/7,200RPM/메모리 64MB/기록방식:CMR(PMR)/두께:26.1mm/DSA/소음(유휴/탐색):27/28dB/A/S 정보:2년/충격 감지센서 / 램프로딩 기술
+26|도시바 DT01 7200/64M (DT01ACA200, 2TB)|101,370|HDD (PC용)/8.9cm(3.5인치)/2TB/SATA3(6Gb/s)/7,200RPM/메모리 64MB/기록방식:CMR(PMR)/두께:26.1mm/소음(유휴/탐색):27/28dB/A/S 정보:2년/680g
+27|Seagate IronWolf 7200/256M/해외구매 (ST14000VN0008, 14TB)||HDD (NAS용)/8.9cm(3.5인치)/14TB/SATA3 (6Gb/s)/7,200RPM/메모리 256MB/220MB/s/기록방식:확인요망(PMR)/두께:26.11mm/헬륨충전/RV센서/S.M.A.R.T 지원/사용보증:100만시간/소음(유휴/탐색):20/28dB/A/S 정보:데이터 복구 2년/무게: 최대 690g
+28|Western Digital WD Purple 5400/256M (WD64PURZ, 6TB)||HDD (CCTV용)/8.9cm(3.5인치)/6TB/SATA3(6Gb/s)/5,400RPM/메모리 256MB/180MB/s/기록방식:CMR(PMR)/두께:26.1mm/저전력/사용보증:100만시간/소음(유휴/탐색):23/27dB/A/S 정보:3년/무게: 450g
+29|Western Digital WD MOBILE Blue 5400/128M/노트북용 (WD20SPZX, 2TB)|127,700|HDD (노트북용)/6.4cm(2.5인치)/2TB/SATA3 (6Gb/s)/5,400RPM/메모리 128MB/기록방식:SMR(PMR)/두께:7mm/소음(유휴/탐색):23/24dB/A/S 정보:2년

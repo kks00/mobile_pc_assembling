@@ -1,0 +1,32 @@
+0|SK하이닉스 DDR5-5600 (16GB)|82,840|데스크탑용/DDR5/5600MHz (PC5-44800)/1.10V/램개수:1개/히트싱크:미포함/모듈제조사:SK하이닉스
+1|G.SKILL DDR5-6000 CL32 TRIDENT Z5 NEO RGB J 패키지 (64GB(32Gx2))|350,000|데스크탑용/DDR5/6000MHz (PC5-48000)/램타이밍:CL32-38-38-96/1.40V/램개수:2개/LED 라이트/EXPO/온다이ECC/히트싱크:방열판/방열판 색상:블랙/LED색상:RGB/LED 시스템:AURA SYNC,MYSTIC LIGHT,RGB FUSION,POLYCHROME/높이:44mm
+2|삼성전자 DDR5-5600 (16GB)|63,530|데스크탑용/DDR5/5600MHz (PC5-44800)/램개수:1개/히트싱크:미포함/모듈제조사:삼성전자/병행수입, 벌크, A/S 등 여부 판매처 확인요망
+3|TeamGroup DDR5-5600 CL46 Elite 서린 (16GB)|56,270|데스크탑용/DDR5/5600MHz (PC5-44800)/램타이밍:CL46-46-46-90/1.10V/램개수:1개/온다이ECC/히트싱크:미포함/높이:32mm
+4|삼성전자 DDR4-3200 (16GB)|43,920|데스크탑용/DDR4/3200MHz (PC4-25600)/램개수:1개/히트싱크:미포함
+5|ESSENCORE KLEVV DDR4-3200 CL22 파인인포 (16GB)|30,240|데스크탑용/DDR4/3200MHz (PC4-25600)/램타이밍:CL22-22-22-51/1.20V/램개수:1개/히트싱크:미포함
+6|ESSENCORE KLEVV DDR5-6000 CL30 CRAS V RGB WHITE 패키지 서린 (32GB(16Gx2))|180,800|데스크탑용/DDR5/6000MHz (PC5-48000)/램타이밍:CL30-36-36-76/1.35V/램개수:2개/LED 라이트/XMP3.0/EXPO/온다이ECC/히트싱크:방열판/방열판 색상:화이트/LED색상:RGB/LED 시스템:AURA SYNC,MYSTIC LIGHT,RGB FUSION,POLYCHROME/높이:44mm
+7|마이크론 Crucial DDR5-5600 CL46 PRO 패키지 대원씨티에스 (32GB(16Gx2))|119,880|데스크탑용/DDR5/5600MHz (PC5-44800)/램타이밍:CL46-45-45/1.10V/램개수:2개/XMP3.0/EXPO/온다이ECC/히트싱크:방열판/방열판 색상:블랙/높이:31.9mm
+8|삼성전자 DDR5-5600 (32GB)|134,360|데스크탑용/DDR5/5600MHz (PC5-44800)/램개수:1개/히트싱크:미포함/모듈제조사:삼성전자/병행수입, 벌크, A/S 등 여부 판매처 확인요망
+9|ESSENCORE KLEVV DDR5-5600 CL46 파인인포 (16GB)|56,600|데스크탑용/DDR5/5600MHz (PC5-44800)/램타이밍:CL46-46-46-90/1.10V/램개수:1개/온다이ECC/히트싱크:미포함/높이:31.25mm/모듈제조사:SK하이닉스/A다이 언락
+10|TeamGroup T-CREATE DDR5-5600 CL46 CLASSIC 패키지 서린 (32GB(16Gx2))|139,700|데스크탑용/DDR5/5600MHz (PC5-44800)/램타이밍:CL46-46-46-90/1.10V/램개수:2개/온다이ECC/히트싱크:방열판/방열판 색상:블랙/높이:32mm
+11|삼성전자 DDR4-3200 (8GB)|25,480|데스크탑용/DDR4/3200MHz (PC4-25600)/램개수:1개/히트싱크:미포함
+12|ESSENCORE KLEVV DDR5-5600 CL46 파인인포 (32GB)|114,270|데스크탑용/DDR5/5600MHz (PC5-44800)/램타이밍:CL46-46-46-90/1.10V/램개수:1개/온다이ECC/히트싱크:미포함/높이:31.25mm/모듈제조사:SK하이닉스/A다이 언락
+13|삼성전자 DDR4-3200 (32GB)|99,440|데스크탑용/DDR4/3200MHz (PC4-25600)/램개수:1개/히트싱크:미포함
+14|마이크론 Crucial DDR5-5600 CL46 대원씨티에스 (16GB)|53,460|데스크탑용/DDR5/5600MHz (PC5-44800)/램타이밍:CL46-45-45/1.10V/램개수:1개/온다이ECC/히트싱크:미포함/모듈제조사:마이크론/Single Ranked, x16 based
+15|G.SKILL DDR5-6000 CL30 RIPJAWS M5 RGB 화이트 패키지 (32GB(16Gx2))|179,820|데스크탑용/DDR5/6000MHz (PC5-48000)/램타이밍:CL30-40-40-96/1.35V/램개수:2개/LED 라이트/XMP3.0/온다이ECC/방열판 색상:화이트/LED색상:RGB/LED 시스템:AURA SYNC,MYSTIC LIGHT,RGB FUSION,POLYCHROME/높이:41mm
+16|ESSENCORE KLEVV DDR5-6000 CL32 FIT V 패키지 (32GB(16Gx2))|139,650|데스크탑용/DDR5/6000MHz (PC5-48000)/램타이밍:CL32-38-38-78/1.35V/램개수:2개/XMP3.0/EXPO/온다이ECC/히트싱크:방열판/방열판 색상:화이트/높이:33.21mm/모듈제조사:SK하이닉스
+17|SK하이닉스 DDR5-5600 (16GB)|82,840|데스크탑용/DDR5/5600MHz (PC5-44800)/1.10V/램개수:1개/히트싱크:미포함/모듈제조사:SK하이닉스
+18|TeamGroup DDR5-5600 CL46 Elite 서린 (32GB)|114,400|데스크탑용/DDR5/5600MHz (PC5-44800)/램타이밍:CL46-46-46-90/1.10V/램개수:1개/온다이ECC/히트싱크:미포함/높이:32mm
+19|ESSENCORE KLEVV DDR5-6000 CL30 BOLT V 패키지 서린 (32GB(16Gx2))|156,860|데스크탑용/DDR5/6000MHz (PC5-48000)/램타이밍:CL30-36-36-76/1.35V/램개수:2개/XMP3.0/EXPO/온다이ECC/히트싱크:방열판/방열판 색상:블랙/높이:34mm/모듈제조사:SK하이닉스
+20|OLOy DDR5-6000 CL32 BLADE RGB MIRROR 패키지 올로이앤코 (32GB(16Gx2))|204,770|데스크탑용/DDR5/6000MHz (PC5-48000)/램타이밍:CL32-38-38-76/1.35V/램개수:2개/LED 라이트/온다이ECC/온도센서/히트싱크:방열판/방열판 색상:실버/그레이/LED색상:RGB/LED 시스템:AURA SYNC,MYSTIC LIGHT,RGB FUSION,POLYCHROME/높이:39mm/모듈제조사:SK하이닉스/A다이 언락
+21|삼성전자 DDR5-5600 (8GB)|43,440|데스크탑용/DDR5/5600MHz (PC5-44800)/램개수:1개/히트싱크:미포함/모듈제조사:삼성전자/병행수입, 벌크, A/S 등 여부 판매처 확인요망
+22|ESSENCORE KLEVV DDR5-6000 CL30 CRAS V RGB 패키지 서린 (64GB(32Gx2))||데스크탑용/DDR5/6000MHz (PC5-48000)/램타이밍:CL30-36-36-76/1.35V/램개수:2개/LED 라이트/XMP3.0/EXPO/온다이ECC/히트싱크:방열판/방열판 색상:블랙/LED색상:RGB/LED 시스템:AURA SYNC,MYSTIC LIGHT,RGB FUSION,POLYCHROME/높이:44mm/모듈제조사:SK하이닉스
+23|마이크론 Crucial 노트북 DDR5-5600 CL46 대원씨티에스 (16GB)|58,320|노트북용/DDR5/5600MHz (PC5-44800)/램타이밍:CL46-45-45/1.10V/램개수:1개/온다이ECC/히트싱크:미포함/모듈제조사:마이크론
+24|마이크론 Crucial DDR4-3200 CL22 대원씨티에스 (8GB)|21,060|데스크탑용/DDR4/3200MHz (PC4-25600)/램타이밍:CL22/1.20V/램개수:1개/히트싱크:미포함/S832A: SR(단면), x8 based / S632A: SR(단면), x16 based 확인요
+25|ESSENCORE KLEVV DDR5-6400 CL32 CRAS V RGB WHITE 패키지 서린 (64GB(32Gx2))||데스크탑용/DDR5/6400MHz (PC5-51200)/램타이밍:CL32-38-38-78/1.35V/램개수:2개/LED 라이트/XMP3.0/온다이ECC/히트싱크:방열판/방열판 색상:화이트/LED색상:RGB/LED 시스템:AURA SYNC,MYSTIC LIGHT,RGB FUSION,POLYCHROME/높이:44mm
+26|삼성전자 노트북 DDR4-3200 (16GB)|45,650|노트북용/DDR4/3200MHz (PC4-25600)/램개수:1개/히트싱크:미포함
+27|삼성전자 노트북 DDR5-5600 (16GB)|63,250|노트북용/DDR5/5600MHz (PC5-44800)/램개수:1개/히트싱크:미포함
+28|삼성전자 DDR4-2666 (8GB)|20,740|데스크탑용/DDR4/2666MHz (PC4-21300)/램개수:1개/히트싱크:미포함
+29|SK하이닉스 DDR5-5600 (32GB)|167,940|데스크탑용/DDR5/5600MHz (PC5-44800)/1.10V/램개수:1개/히트싱크:미포함/모듈제조사:SK하이닉스
+30|ESSENCORE KLEVV DDR5-8200 CL38 CRAS V RGB 패키지 서린 (48GB(24Gx2))||데스크탑용/DDR5/8200MHz (PC5-65600)/램타이밍:CL38-49-49-131/1.45V/램개수:2개/LED 라이트/XMP3.0/온다이ECC/히트싱크:방열판/방열판 색상:블랙/LED색상:RGB/LED 시스템:AURA SYNC,MYSTIC LIGHT,RGB FUSION,POLYCHROME/높이:44mm/모듈제조사:SK하이닉스
+31|TeamGroup T-Force DDR5-6000 CL38 Delta RGB 화이트 패키지 서린 (32GB(16Gx2))|153,780|데스크탑용/DDR5/6000MHz (PC5-48000)/램타이밍:CL38-38-38-78/1.25V/램개수:2개/LED 라이트/XMP3.0/온다이ECC/히트싱크:방열판/방열판 색상:화이트/LED색상:RGB/LED 시스템:AURA SYNC,MYSTIC LIGHT,RGB FUSION,POLYCHROME/높이:46.1mm
