@@ -64,6 +64,8 @@ public class MainActivity extends AppCompatActivity {
         if (requestCode == DETAIL_RESULT) {
             if (resultCode == RESULT_OK) {
                 // 장바구니에 담기
+                Item selected_item = (Item)data.getSerializableExtra("SELECTED_ITEM");
+                items.cartItemDB.addCartItem(selected_item);
             }
         }
     }
@@ -76,6 +78,7 @@ public class MainActivity extends AppCompatActivity {
         // 아이템 목록 초기화
         items = new Items(this);
 
+        // 장바구니로 이동
         Button btnGotoCart = findViewById(R.id.btnGotoCart);
         btnGotoCart.setOnClickListener((view) -> {
             Intent intent = new Intent(MainActivity.this, activity_cart.class);

@@ -30,14 +30,16 @@ public class activity_itemdetail extends AppCompatActivity {
         tvDetailItemName = findViewById(R.id.tvDetailItemName);
         tvDetailItemPrice = findViewById(R.id.tvDetailItemPrice);
         tvDetailItemSpec = findViewById(R.id.tvDetailItemSpec);
-        
+
         tvDetailItemName.setText(selected_item.name);
         tvDetailItemPrice.setText(selected_item.price);
         tvDetailItemSpec.setText(selected_item.spec);
 
         Button btnAddToCart = findViewById(R.id.btnAddToCart);
         btnAddToCart.setOnClickListener((view) -> {
-            setResult(RESULT_OK);
+            Intent new_intent = new Intent();
+            new_intent.putExtra("SELECTED_ITEM", selected_item);
+            setResult(RESULT_OK, new_intent);
             finish();
         });
 
