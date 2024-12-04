@@ -1,7 +1,5 @@
 package com.example.pcassembling;
 
-import android.Manifest;
-import android.app.Activity;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -9,9 +7,7 @@ import android.graphics.Color;
 import android.os.Environment;
 import android.util.Log;
 import android.view.View;
-import android.widget.Toast;
 
-import androidx.core.app.ActivityCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.io.File;
@@ -21,6 +17,12 @@ import java.io.IOException;
 // 스크린샷 찰영을 위한 함수들 by ChatGPT.
 public class GetScreenShot {
     public static String saveScreenshot(Context context, Bitmap bitmap) {
+        String state = Environment.getExternalStorageState();
+        if (state.equals(Environment.MEDIA_MOUNTED) == false) {
+            Log.d("saveScreenshot", "외부 스토리지 접근에 실패하였습니다.");
+            return "";
+        }
+
         // 저장할 디렉토리 및 파일 이름 설정
         File path = new File(context.getExternalFilesDir(null), "/Screenshots");
         if (!path.exists()) {

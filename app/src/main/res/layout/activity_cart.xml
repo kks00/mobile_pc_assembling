@@ -43,28 +43,46 @@
         android:id="@+id/cartItemRecyclerView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="1" />
+        android:layout_weight="1" >
+
+    </androidx.recyclerview.widget.RecyclerView>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:orientation="vertical">
 
-        <Button
-            android:id="@+id/btnTakeScreenshot"
-            android:layout_width="wrap_content"
+        <LinearLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10sp"
-            android:layout_weight="1"
-            android:text="스크린샷 저장" />
+            android:layout_marginRight="10sp">
+
+            <Button
+                android:id="@+id/btnCheckCompat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="@color/teal_700"
+                android:text="부품 호환성 확인" />
+
+            <Button
+                android:id="@+id/btnTakeScreenshot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:text="스크린샷 저장" />
+
+        </LinearLayout>
 
         <Button
             android:id="@+id/btnGoBackList"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10sp"
             android:layout_marginRight="10sp"
             android:layout_weight="1"
             android:text="상품 목록으로 돌아가기" />
     </LinearLayout>
+
 </LinearLayout>
